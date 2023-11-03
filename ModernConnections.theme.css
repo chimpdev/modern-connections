@@ -8,7 +8,7 @@
 }
 
 /* Remove old verified icon mark */
-.childContainer__4e664:has(svg) {
+.connectedAccountVerifiedIcon_db6dbd>.childContainer__4e664:has(svg) {
   display: none;
 }
 
