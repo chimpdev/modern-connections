@@ -5,6 +5,7 @@
   background: var(--modern-connections-color-alpha);
   border-radius: 0.25rem;
   padding: 0.5rem;
+  filter: saturate(var(--saturation-factor, 1)) contrast(var(--contrast, 1)) brightness(var(--brightness, 1));
 }
 
 /* Remove old verified icon mark */
